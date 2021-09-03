@@ -1,0 +1,2 @@
+D:\Учеба\1 курс\Лабы\OS\Laba_14\mail\client2\Debug\client2.exe
+D:\Учеба\1 курс\Лабы\OS\Laba_14\mail\client2\Debug\client2.pdb
